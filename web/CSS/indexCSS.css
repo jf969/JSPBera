@@ -1,0 +1,9 @@
+*{
+margin: 0;
+padding: 0;	
+}
+
+.fondoInicio {
+	background-image: url(Img/PNG/FondoIndex.jpg);
+	
+}
